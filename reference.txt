@@ -1,0 +1,41 @@
+Referências Bibliográficas
+
+    Scikit-Learn Documentation
+        Scikit-learn é uma das bibliotecas mais populares para machine learning em Python. Oferece uma ampla gama de ferramentas para modelagem, seleção de características e avaliação de modelos.
+        Link: Scikit-learn Documentation
+
+    Pandas Documentation
+        Pandas é uma biblioteca fundamental para manipulação e análise de dados em Python. Fornece estruturas de dados e ferramentas para análise de dados.
+        Link: Pandas Documentation
+
+    Matplotlib Documentation
+        Matplotlib é uma biblioteca de visualização em Python que fornece ferramentas para criar gráficos e visualizações estáticas, animadas e interativas.
+        Link: Matplotlib Documentation
+
+    Seaborn Documentation
+        Seaborn é uma biblioteca de visualização baseada no Matplotlib que facilita a criação de gráficos estatísticos e complexos com menos código.
+        Link: Seaborn Documentation
+
+    Machine Learning Yearning
+        Livro de Andrew Ng que oferece uma introdução prática ao desenvolvimento de sistemas de machine learning e à resolução de problemas complexos de machine learning.
+        Link: Machine Learning Yearning
+
+    Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow
+        Livro de Aurélien Géron que fornece uma introdução prática ao machine learning com Scikit-learn, Keras e TensorFlow, abordando desde conceitos básicos até técnicas avançadas.
+        Link: Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow
+
+    Pattern Recognition and Machine Learning
+        Livro de Christopher Bishop que cobre os fundamentos do machine learning e técnicas de reconhecimento de padrões.
+        Link: Pattern Recognition and Machine Learning
+
+    Introduction to Statistical Learning
+        Livro de Gareth James, Daniela Witten, Trevor Hastie e Robert Tibshirani que oferece uma introdução aos métodos de aprendizado estatístico e é uma excelente fonte para fundamentos teóricos e práticos.
+        Link: Introduction to Statistical Learning
+
+    Deep Learning
+        Livro de Ian Goodfellow, Yoshua Bengio e Aaron Courville que fornece uma introdução abrangente ao deep learning, cobrindo desde conceitos básicos até técnicas avançadas.
+        Link: Deep Learning
+
+    Kaggle
+        Plataforma de competições de machine learning e ciência de dados, que oferece datasets, kernels (notebooks) e tutoriais para aprimorar habilidades práticas.
+        Link: Kaggle

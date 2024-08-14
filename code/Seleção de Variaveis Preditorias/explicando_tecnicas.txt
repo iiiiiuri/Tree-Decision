@@ -1,0 +1,5 @@
+Para selecionar as variáveis preditoras mais relevantes, podemos utilizar duas técnicas:
+
+    Recursive Feature Elimination (RFE): Esse método seleciona as variáveis mais importantes eliminando recursivamente as menos importantes. Funciona treinando o modelo várias vezes e removendo as variáveis com menor importância a cada iteração.
+
+    Feature Importance (Importância das Variáveis): Usando uma árvore de decisão treinada, podemos calcular a importância de cada variável com base na contribuição dela para a decisão final.

@@ -1,0 +1,3 @@
+Histogramas: Mostram a distribuição das variáveis numéricas e permitem identificar se os dados estão concentrados em algum ponto específico, além de revelar possíveis assimetrias.
+Gráfico de Barras: O gráfico de barras para a variável species mostra a distribuição das observações entre as três espécies de íris.
+Boxplots: Os boxplots permitem ver a mediana, quartis, e outliers para cada variável numérica, separados por espécie.

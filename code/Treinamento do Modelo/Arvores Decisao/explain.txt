@@ -1,0 +1,16 @@
+Divisão dos Dados:
+
+    Os dados são divididos em conjuntos de treinamento (70%) e teste (30%) usando train_test_split.
+
+Random Forest:
+
+    O modelo RandomForestClassifier é treinado nos dados de treinamento e utilizado para fazer previsões no conjunto de teste.
+    A acurácia e o relatório de classificação são exibidos para avaliar o desempenho.
+
+Gradient Boosting:
+
+    Similarmente, o modelo GradientBoostingClassifier é treinado e avaliado nos dados de teste.
+
+Avaliação:
+
+    A acurácia (accuracy_score) é calculada para ambos os modelos, junto com o relatório de classificação (classification_report), que fornece mais detalhes sobre a precisão, recall e F1-score.
